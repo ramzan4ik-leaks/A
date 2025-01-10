@@ -1,6 +1,4 @@
-Your code is a comprehensive Docker container management script, primarily used for managing and scanning network interfaces within containers. Below is a **presentation overview** script that outlines the purpose and functionality of your Python script:
 
----
 
 ## **Docker Container Management & Nmap Scanning**
 **Automated VPN & Security Analysis Tool**
